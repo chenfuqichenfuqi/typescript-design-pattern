@@ -1,0 +1,14 @@
+{
+  "name": "typescript-design-pattern",
+  "version": "1.0.0",
+  "description": "📚 Design patterns implemented in typescript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1"
+  }
+}
